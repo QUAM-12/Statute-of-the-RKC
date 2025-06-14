@@ -1,6 +1,6 @@
 # 개요
-[RKC 법령 프로젝트](https://github.com/QUAM-12/Statute-of-the-RKC)는 `Minecraft` 기반 가상 국가 컨셉의 디스코드  
-`RKC`(`Republic of Korean Commanders`) 내에서 시민들의 준법 정신을 고취하고, 질서를 구축하기 위한 가상의 법 체계입니다.  
+[RKC 법령 프로젝트](https://github.com/QUAM-12/Statute-of-the-RKC)는 `Minecraft` 기반 가상 국가 컨셉의 디스코드  `RKC`(`Republic of Korean Commanders`)  
+내에서 시민들의 준법 정신을 고취하고, 질서를 구축하기 위한 가상의 법 체계입니다.  
 
 ## 📚 프로젝트 목적
 - 혼란 방지
@@ -22,3 +22,16 @@
 ## 구조
 헌법  
 ├─ 일반법: `도로교통법`, `건축법`
+
+# 참조
+## 첨자
+①
+②
+③
+④
+⑤
+⑥
+⑦
+⑧
+⑨
+⑩
